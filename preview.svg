@@ -1,0 +1,132 @@
+<svg width="770" height="430" viewBox="0 0 770 430" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI','Arial',sans-serif">
+  <defs>
+    <linearGradient id="topbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e94560"/>
+      <stop offset="100%" stop-color="#f5a623"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main bg -->
+  <rect width="770" height="430" rx="10" fill="#0f0f1a"/>
+
+  <!-- Top bar -->
+  <rect width="770" height="46" rx="10" fill="url(#topbar)"/>
+  <rect y="36" width="770" height="10" fill="#16213e"/>
+
+  <!-- Logo area -->
+  <rect x="16" y="10" width="26" height="26" rx="4" fill="url(#accent)"/>
+  <text x="29" y="27" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="bold">C</text>
+  <text x="52" y="28" fill="#ffffff" font-size="13" font-weight="600">ChimeraTool</text>
+  <text x="150" y="28" fill="#8a8a9a" font-size="10">Professional Mobile Service Platform</text>
+
+  <!-- Right info top bar -->
+  <rect x="570" y="12" width="80" height="22" rx="4" fill="#0a3d62"/>
+  <text x="610" y="27" text-anchor="middle" fill="#74b9ff" font-size="10">Credits: 347</text>
+  <rect x="658" y="12" width="96" height="22" rx="4" fill="#1a472a"/>
+  <text x="706" y="27" text-anchor="middle" fill="#55efc4" font-size="10">● Connected</text>
+
+  <!-- Left sidebar -->
+  <rect x="0" y="46" width="160" height="384" fill="#13131f"/>
+
+  <!-- Sidebar categories -->
+  <text x="16" y="72" fill="#8a8a9a" font-size="9" font-weight="600">DEVICE</text>
+  <rect x="8" y="78" width="144" height="28" rx="4" fill="#1a1a2e"/>
+  <text x="20" y="97" fill="#e94560" font-size="11">▶ Samsung</text>
+  <rect x="8" y="110" width="144" height="28" rx="4" fill="transparent"/>
+  <text x="20" y="129" fill="#6c6c7a" font-size="11">  Huawei</text>
+  <rect x="8" y="142" width="144" height="28" rx="4" fill="transparent"/>
+  <text x="20" y="161" fill="#6c6c7a" font-size="11">  Motorola</text>
+  <rect x="8" y="174" width="144" height="28" rx="4" fill="transparent"/>
+  <text x="20" y="193" fill="#6c6c7a" font-size="11">  LG</text>
+  <rect x="8" y="206" width="144" height="28" rx="4" fill="transparent"/>
+  <text x="20" y="225" fill="#6c6c7a" font-size="11">  Nokia</text>
+
+  <line x1="8" y1="242" x2="152" y2="242" stroke="#2a2a3e" stroke-width="1"/>
+  <text x="16" y="260" fill="#8a8a9a" font-size="9" font-weight="600">OPERATIONS</text>
+  <rect x="8" y="266" width="144" height="24" rx="4" fill="#1e1e2e"/>
+  <text x="20" y="282" fill="#f5a623" font-size="10">⚡ Flash / Firmware</text>
+  <text x="20" y="308" fill="#6c6c7a" font-size="10">🔓 SIM Unlock</text>
+  <text x="20" y="330" fill="#6c6c7a" font-size="10">🛡 FRP Bypass</text>
+  <text x="20" y="352" fill="#6c6c7a" font-size="10">🔧 IMEI Repair</text>
+  <text x="20" y="374" fill="#6c6c7a" font-size="10">📊 Diagnostics</text>
+  <text x="20" y="396" fill="#6c6c7a" font-size="10">💾 EFS Backup</text>
+  <text x="20" y="418" fill="#6c6c7a" font-size="10">🔑 Screen Lock</text>
+
+  <!-- Main content area -->
+  <!-- Device info card -->
+  <rect x="170" y="54" width="290" height="96" rx="8" fill="#1a1a2e"/>
+  <text x="186" y="74" fill="#8a8a9a" font-size="10" font-weight="600">DETECTED DEVICE</text>
+  <text x="186" y="94" fill="#ffffff" font-size="13" font-weight="600">Samsung Galaxy A52s 5G</text>
+  <text x="186" y="110" fill="#8a8a9a" font-size="10">SM-A528B · Snapdragon 778G · Android 13</text>
+  <text x="186" y="126" fill="#8a8a9a" font-size="10">S/N: R58T31ABCDE · IMEI: 352xxxxxxxxxxxX</text>
+  <!-- Connection badge -->
+  <rect x="390" y="110" width="58" height="20" rx="4" fill="#1a472a"/>
+  <text x="419" y="123" text-anchor="middle" fill="#55efc4" font-size="9">USB OK</text>
+
+  <!-- Operation card -->
+  <rect x="170" y="160" width="290" height="260" rx="8" fill="#1a1a2e"/>
+  <text x="186" y="180" fill="#8a8a9a" font-size="10" font-weight="600">OPERATION — FLASH FIRMWARE</text>
+
+  <text x="186" y="204" fill="#6c6c7a" font-size="10">Firmware File</text>
+  <rect x="186" y="210" width="256" height="26" rx="4" fill="#0f0f1a" stroke="#2a2a3e" stroke-width="1"/>
+  <text x="200" y="227" fill="#f5a623" font-size="10">SM-A528B_4files_ONY_v13.zip</text>
+
+  <text x="186" y="252" fill="#6c6c7a" font-size="10">CSC Region</text>
+  <rect x="186" y="258" width="120" height="26" rx="4" fill="#0f0f1a" stroke="#2a2a3e" stroke-width="1"/>
+  <text x="200" y="275" fill="#ffffff" font-size="10">ONY — Russia</text>
+
+  <text x="316" y="252" fill="#6c6c7a" font-size="10">Flash Mode</text>
+  <rect x="316" y="258" width="122" height="26" rx="4" fill="#0f0f1a" stroke="#2a2a3e" stroke-width="1"/>
+  <text x="330" y="275" fill="#ffffff" font-size="10">Full (4-files)</text>
+
+  <!-- Options checkboxes -->
+  <text x="186" y="305" fill="#6c6c7a" font-size="10">Options</text>
+  <rect x="186" y="312" width="12" height="12" rx="2" fill="#e94560"/>
+  <text x="203" y="322" fill="#e0e0e0" font-size="10">Wipe userdata</text>
+  <rect x="186" y="330" width="12" height="12" rx="2" fill="#e94560"/>
+  <text x="203" y="340" fill="#e0e0e0" font-size="10">Wipe cache</text>
+  <rect x="186" y="348" width="12" height="12" rx="2" fill="#2a2a3e" stroke="#4a4a5e" stroke-width="1"/>
+  <text x="203" y="358" fill="#6c6c7a" font-size="10">Reboot after flash</text>
+  <rect x="186" y="366" width="12" height="12" rx="2" fill="#e94560"/>
+  <text x="203" y="376" fill="#e0e0e0" font-size="10">EFS backup before flash</text>
+
+  <!-- Start button -->
+  <rect x="186" y="392" width="256" height="20" rx="4" fill="url(#accent)"/>
+  <text x="314" y="405" text-anchor="middle" fill="#ffffff" font-size="11" font-weight="bold">▶  EXECUTE OPERATION  (1 credit)</text>
+
+  <!-- Right panel - log -->
+  <rect x="472" y="54" width="288" height="366" rx="8" fill="#0d0d1a"/>
+  <text x="488" y="74" fill="#8a8a9a" font-size="10" font-weight="600">OPERATION LOG</text>
+  <line x1="472" y1="80" x2="760" y2="80" stroke="#2a2a3e" stroke-width="1"/>
+
+  <text x="488" y="98" fill="#55efc4" font-size="9">[12:44:01] ChimeraTool v46.29 initialized</text>
+  <text x="488" y="114" fill="#55efc4" font-size="9">[12:44:02] Device detected: SM-A528B</text>
+  <text x="488" y="130" fill="#55efc4" font-size="9">[12:44:02] Auth verified — account active</text>
+  <text x="488" y="146" fill="#55efc4" font-size="9">[12:44:03] Firmware integrity check: OK</text>
+  <text x="488" y="162" fill="#f5a623" font-size="9">[12:44:04] Switching device to DL mode...</text>
+  <text x="488" y="178" fill="#f5a623" font-size="9">[12:44:07] Download mode active</text>
+  <text x="488" y="194" fill="#f5a623" font-size="9">[12:44:08] Starting flash: BL partition</text>
+  <text x="488" y="210" fill="#f5a623" font-size="9">[12:44:22] BL flashed — 14.2 MB/s avg</text>
+  <text x="488" y="226" fill="#f5a623" font-size="9">[12:44:23] Starting flash: AP partition</text>
+  <text x="488" y="242" fill="#74b9ff" font-size="9">[12:46:18] AP flashed [████████░░] 79%</text>
+  <text x="488" y="258" fill="#6c6c7a" font-size="9">[......] Flashing CP partition...</text>
+  <text x="488" y="274" fill="#6c6c7a" font-size="9">[......] Flashing CSC partition...</text>
+  <text x="488" y="290" fill="#6c6c7a" font-size="9">[......] Verifying partitions...</text>
+  <text x="488" y="306" fill="#6c6c7a" font-size="9">[......] Rebooting device...</text>
+
+  <!-- Progress in right panel -->
+  <rect x="488" y="328" width="246" height="6" rx="3" fill="#2a2a3e"/>
+  <rect x="488" y="328" width="194" height="6" rx="3" fill="url(#accent)"/>
+  <text x="488" y="350" fill="#8a8a9a" font-size="9">AP Partition — 79% — 11.8 MB/s</text>
+  <text x="726" y="350" text-anchor="end" fill="#f5a623" font-size="9">ETA 38s</text>
+
+  <!-- Credit deducted notice -->
+  <rect x="488" y="360" width="246" height="50" rx="6" fill="#1a0d00"/>
+  <text x="500" y="378" fill="#f5a623" font-size="9">⚡ 1 credit will be deducted on success</text>
+  <text x="500" y="394" fill="#6c6c7a" font-size="9">Remaining after: 346 credits</text>
+  <text x="500" y="408" fill="#6c6c7a" font-size="9">Session: active · Expires: never</text>
+</svg>
